@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@2b4ca62a-05ee-414f-870b-126b1608ae6a" />
+        <remote-mappings server-id="python@sftp://zmj@10.176.40.202:22/home/zmj/anaconda3/envs/dgllatest/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/zmj/task/DKGI" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
